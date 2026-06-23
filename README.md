@@ -5,7 +5,7 @@
 - 🔭 Trabalho com programação industrial, buscando transição para Backend
 - 🌱 Estudando Java
 - 📫 E-mail: lucca.lima1984@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronome: ele/dele
 
 
 <div align="left">
