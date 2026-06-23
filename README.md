@@ -2,10 +2,21 @@
 
 
 
-- 🔭 Trabalho com programação industrial, buscando transição para Backend
+- 🔭 Trabalho com programação industrial, buscando transição para a área de desenvolvimento Backend
 - 🌱 Estudando Java
 - 📫 E-mail: lucca.lima1984@gmail.com
 - 😄 Pronome: ele/dele
+
+
+## 🎓 Formação Acadêmica
+
+<p>
+ <img src="https://img.shields.io/badge/FIAP-Pós--Graduação%20em%20Arquitetura%20de%20Software%20e%20Desenvolvimento%20Java%20|%20Em%20andamento-red?style=for-the-badge">
+</p>
+
+<p>
+ <img src="https://img.shields.io/badge/USCS-Tecnólogo%20em%20Análise%20e%20Desenvolvimento%20de%20Sistemas%20|%20Concluído-blue?style=for-the-badge">
+</p>
 
 ## 📊 Github Stats
 
