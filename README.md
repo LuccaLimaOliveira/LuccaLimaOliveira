@@ -4,7 +4,7 @@
 
 - 🔭 Trabalho com programação industrial, buscando transição para Backend
 - 🌱 Estudando Java
-- 📫 How to reach me: lucca.lima1984@gmail.com
+- 📫 E-mail: lucca.lima1984@gmail.com
 - 😄 Pronouns: ele/dele
 
 
