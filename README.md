@@ -2,8 +2,6 @@
 
 
 
-Here are some ideas to get you started:
-
 - 🔭 Trabalho com programação industrial, buscando transição para Backend
 - 🌱 Estudando Java
 - 📫 How to reach me: lucca.lima1984@gmail.com
