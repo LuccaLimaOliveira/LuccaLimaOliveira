@@ -7,6 +7,7 @@
 - 📫 E-mail: lucca.lima1984@gmail.com
 - 😄 Pronome: ele/dele
 
+## 📊 Github Stats
 
 <div align="left">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuccaLimaOliveira&show_icons=true&theme=radical" />
