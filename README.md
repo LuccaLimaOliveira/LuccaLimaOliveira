@@ -5,7 +5,7 @@
 - 🔭 Trabalho com programação industrial, buscando transição para a área de desenvolvimento Backend
 - 🌱 Estudando Java
 - 📫 E-mail: lucca.lima1984@gmail.com
-- 😄 Pronome: ele/dele
+- 😄 Sou um entusiasta de Tecnologia. Há um ano me identifiquei com a área de desenvolvimento Backend em Java e desde então venho me especializando para alcançar meus objetivos na área. Sou uma pessoa resiliente, com vontade de aprender e usar a tecnologia para melhorar a vida das pessoas.
 
 
 ## 🎓 Formação Acadêmica
