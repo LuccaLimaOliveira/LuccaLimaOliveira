@@ -1,15 +1,29 @@
 ## 👋 Olá, seja bem-vindo! Sou Lucca Lima de Oliveira
 
-🎯 Desenvolvedor Backend Java em transição para minha primeira oportunidade profissional em tecnologia.
 
-🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas e pós-graduando em Arquitetura de Software e Desenvolvimento Java pela FIAP.
+## 🎯 Perfil Profissional
 
-💻 Desenvolvo APIs REST e aplicações backend utilizando **Java, Spring Boot, Spring Security, JPA/Hibernate, PostgreSQL e MongoDB**, aplicando conceitos de **POO, SOLID, arquitetura de software e boas práticas de desenvolvimento**.
 
-⚙️ Também possuo experiência com **Git/GitHub, Maven, Gradle, Docker e CI/CD com GitHub Actions**.
+- 💻 Foco em **Desenvolvimento Backend Java**
+- 🔎 Em busca da **primeira oportunidade profissional em tecnologia**
+- 🚀 Desenvolvimento de **APIs REST e aplicações backend**
+- 😀 Sou um entusiasta em tecnologia. Há 2 anos me identifiquei com a área de **Desenvolvimento Backend Java** e desde então venho me especializando para alcançar meus objetivos. Me considero uma pessoa resiliente pois trabalho a 4 anos na área industrial, onde sou desafiado diariamente a testar meus conhecimentos e raciocínio técnico, sempre buscando a excelência. Tenho muita vontade em aprender e poder usar tecnologia para mudar a vida das pessoas!
 
-🚀 Atualmente, sigo aprofundando meus conhecimentos em desenvolvimento Backend Java enquanto construo projetos autorais e soluções que simulam problemas reais de negócio.
+  
+## ⚙️ Conhecimentos
 
+
+- **Stack:** Java | SpringBoot | Spring Security | Spring Data
+- **Banco de Dados:** PostgreSQL | MongoDB
+- **DevOps & Ferramentas:** Git | GitHub | Docker | Maven | Gradle | GitHub Actions
+- **Conceitos:** APIs REST | POO | SOLID | Arquitetura de Software
+
+
+## 📚 Atualmente estudando
+
+
+- 🌐 **JavaScript | React | Angular**
+- 🏗️ Aprofundando conhecimentos em **Backend Java e Arquitetura de Software**
 
 ## 🎓 Formação Acadêmica
 
