@@ -1,11 +1,14 @@
-## Olá, seja bem-vindo! Sou Lucca Lima de Oliveira
+## 👋 Olá, seja bem-vindo! Sou Lucca Lima de Oliveira
 
+🎯 Desenvolvedor Backend Java em transição para minha primeira oportunidade profissional em tecnologia.
 
+🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas e pós-graduando em Arquitetura de Software e Desenvolvimento Java pela FIAP.
 
-- 🔭 Trabalho com programação industrial, buscando transição para a área de desenvolvimento Backend
-- 🌱 Estudando Java
-- 📫 E-mail: lucca.lima1984@gmail.com
-- 😄 Sou um entusiasta de Tecnologia. Há um ano me identifiquei com a área de desenvolvimento Backend em Java e desde então venho me especializando para alcançar meus objetivos na área. Sou uma pessoa resiliente, com vontade de aprender e usar a tecnologia para melhorar a vida das pessoas.
+💻 Desenvolvo APIs REST e aplicações backend utilizando **Java, Spring Boot, Spring Security, JPA/Hibernate, PostgreSQL e MongoDB**, aplicando conceitos de **POO, SOLID, arquitetura de software e boas práticas de desenvolvimento**.
+
+⚙️ Também possuo experiência com **Git/GitHub, Maven, Gradle, Docker e CI/CD com GitHub Actions**.
+
+🚀 Atualmente, sigo aprofundando meus conhecimentos em desenvolvimento Backend Java enquanto construo projetos autorais e soluções que simulam problemas reais de negócio.
 
 
 ## 🎓 Formação Acadêmica
